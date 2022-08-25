@@ -1,0 +1,18 @@
+body{
+    color: aqua;
+    background-color: aquamarine;
+}
+.heading{
+    width: 55%;
+    font-size: 22px;
+
+}
+#camera{
+    border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
+#member_name,#member_accuracy{
+    color: bisque;
+    font-size: 22px;
+}
